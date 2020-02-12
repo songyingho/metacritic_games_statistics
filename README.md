@@ -64,14 +64,13 @@ The next two modules in this series will address analysis of variance and chi-sq
 
 Task 6 [Limitations & Improvements]
 
-i) For some games, only few users rated “User score” of the game. 
+i) For some games, only few users rated “User score” of the game. Therefore, the score is from such a subjective opinion and 
+   it might not have a significant meaning in terms of statistics. 
 
-    Therefore, the score is from such a subjective opinion and it might not have a significant meaning in terms of statistics. 
-
-    Ex) A game called “Marvel's Guardians of the Galaxy” has a user score of “7.1” 
+ex) A game called “Marvel's Guardians of the Galaxy” has a user score of “7.1” 
     which is regarded as a good game or fairly recommended game. 
     However, the score of “7.1” is derived from a single user. 
-
+   
 ii) Due to insufficient spending data by publishers, there might be a doubt on the validity of the user/critic scroes.
     The big game publishers has an abiity to spend more money on maketing or influence critics,                                             Whereas small-to medium companies cannot.
 
