@@ -66,7 +66,19 @@ H0: Users and Critics give similar scores in PC games
 H1: Users and Critics DO NOT always give similar scores in PC games.
 
 Task 5 [Findings & Analysis]
+1. Since there is no difference before and after the introduction of “ Battle Royal”
+We recommend the gaming company to carry on their genre of games. 
+However, the growth of Battle ground games are very fast, we recommend them to monitor it.
+  
+2. We can confidently say that it is highly likely that not only do reviewers consistently rate 
+PC games higher than users, but they do so significantly. 
+What this means for the business is that we should continue to 
+divert existing levels of PR funding into engaging with professional reviewers.  
 
+3. Zen Studios perform significantly well against Atlus and Ubisoft, so Zen Studios 
+may be a better publisher for the business upcoming new game, 
+however more analysis should be done to compare the publishing cost, 
+distribution channel and sales figure by 3 of the leading gaming publishers.
 
 
 Task 6 [Limitations & Improvements] 
