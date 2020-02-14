@@ -38,41 +38,51 @@ are used to assess the likelihood that the hypothesis is true.
 The hypothesis is based on available information and the investigator's belief about the population parameters. 
 In order to process hypothesis testing, we set up the null hypothesis(H0) and the alternate hypothesis(H1).
 
-Hypothesis 1. 
+Hypothesis 1 (ANOVA Test)
 
-H0 :
-H1:
+Due to the introduction of new genre in 2015 , expectation of potential customers towards the games is high. 
+Thus, they might give lower rating to Action game.
 
-Hypothesis 2. 
+H0 : The user rating of Action in Year 13-14 , Year 15-16 and Year 17-18 have no differences.
+H1 : The user rating of Action in Year 13-14 , Year 15-16 and Year 17-18 have a clear difference.
 
-H0:
-H1:
+Hypothesis 2 (ANOVA Test)
 
-Hypothesis 3.
+We suspect that influence of well-known pubishers whihin game industry are high and 
+employee of those publishers might be one of the panel of critics who gives the score of the games.
+Thus, we would like to find it out.
 
-H0:
-H1:
+H0: Well-known game pubishers ( Ubisoft, Atlus, Zen Studios) do not influence the critic's score
+H1: Well-known game pubishers ( Ubisoft, Atlus, Zen Studios) does influence the critic's score
+
+Hypothesis 3. (Welch's T - test)
+
+We believe that If we like something good (ex. foods from Michelin starred restaurants or Chanel etc) then, we would think that other people would like it too.
+
+With the same logic, we might believe that If we like that particular game, then, we would think that other people would like it too.
+However, Review Scores are rated from subjective view points of individuals and Gaming publishers could lobbying to Critics and influence the scores.
+
+Therefore, we decided to check whether Users and Critics give Similar Scores in PC games. From this result, we would expect to advise Gaming companies whether they should value the critic review or not. 
+
+H0: Users and Critics give similar scores in PC games
+H1: Users and Critics DO NOT always give similar scores in PC games.
 
 Task 5 [Findings & Analysis]
 
-##One selects a random sample (or multiple samples when there are more comparison groups), 
-computes summary statistics and then assesses the likelihood that the sample data 
-support the research or alternative hypothesis. 
-Similar to estimation, the process of hypothesis testing is based on probability theory and the Central Limit Theorem.  
-This module will focus on hypothesis testing for means and proportions. 
-The next two modules in this series will address analysis of variance and chi-squared tests. ##
+
 
 Task 6 [Limitations & Improvements]
-
-i) For some games, only few users rated “User score” of the game. Therefore, the score is from such a subjective opinion and 
-   it might not have a significant meaning in terms of statistics. 
 
 ex) A game called “Marvel's Guardians of the Galaxy” has a user score of “7.1” 
     which is regarded as a good game or fairly recommended game. 
     However, the score of “7.1” is derived from a single user. 
    
 ii) Due to insufficient spending data by publishers, there might be a doubt on the validity of the user/critic scroes.
-    The big game publishers has an abiity to spend more money on maketing or influence critics,                                             Whereas small-to medium companies cannot.
+    International game publishers have an abiity to spend more money on maketing which might influence critics, whereas small-to medium companies cannot.
 
-iii) The good scores of the game might not lead to an increase in sales, becuase we do not have a data for sales. 
-     However, we assumed that good review of games would increase sales of the game.
+iii) We assumed that good review(scores) of games would increase sales of the game. 
+
+Task 7 [ Important Note ]
+
+1) Metacritic website has their own way to calculate the score.
+   (Metacritic's scoring converts each review into a percentage, either mathematically from the mark given, or which the site decides      subjectively from a qualitative review. Before being averaged, the scores are weighted according to the critic's fame, etc)
