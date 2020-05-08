@@ -1,4 +1,4 @@
-Metacritic All Time Games Statistics (1995 - 2018)
+# Metacritic All Time Games Statistics (1995 - 2018)
 
 Student Name: Sandy Lee , Song Ying and James Lee
 
